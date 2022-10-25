@@ -7,15 +7,6 @@ Please cite: [UCI](https://archive.ics.uci.edu/ml/citation_policy.html)
 German Credit data  
 This dataset classifies people described by a set of attributes as good or bad credit risks.
 
-This dataset comes with a cost matrix: 
-``` 
-      Good  Bad (predicted)  
-Good   0    1   (actual)  
-Bad    5    0  
-```
-
-It is worse to class a customer as good when they are bad (5), than it is to class a customer as bad when they are good (1).  
-
 ### Attribute description  
 
 1. Status of existing checking account, in Deutsche Mark.  
