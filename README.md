@@ -8,7 +8,4 @@ Objective :  Find similarities between individuals who share the same credit ris
 - Work in progress. I plan to explain in depth every method and tool I use. I believe anyone could copy-paste code and understand the libraries docs, and actually understanding what is happening and how things interact with each-others is the true skill. That's I truly hope to show with this project
 <br/>
 <br/>
-As of 27/10, I'm actively working on the project and plan to finish it next week
-<br/>
-<br/>
 Thank you for your time :smile:
